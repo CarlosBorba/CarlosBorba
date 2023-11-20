@@ -1,5 +1,3 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://media.licdn.com/dms/image/D4D16AQESldO5um6IBA/profile-displaybackgroundimage-shrink_350_1400/0/1694636971773?e=1700697600&v=beta&t=tLi50FF-WRvaDjIpjCJuVo6B2SIv7yKpEMg2nP3zrbQ" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"></p>&nbsp;
@@ -10,9 +8,6 @@
  
  &nbsp;
  &nbsp;
-
-
-<img src="https://o.remove.bg/downloads/38387ebd-55b3-42c1-95b8-b7e97451e315/4401280-removebg-preview.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
 
